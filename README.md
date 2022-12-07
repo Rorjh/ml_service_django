@@ -1,1 +1,1 @@
-# ml_service_django
+# Ml service with django - training project
